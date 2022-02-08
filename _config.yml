@@ -3,7 +3,7 @@ title: Các khách hàng và tên miền của | Tiep Customer
 description: A showcase of beautiful websites
 baseurl: ""
 url: "https://tiepcustomer.netlify.app"
-cdn: "https://shots.ohthatsnice.net/"
+cdn: "https://browshot.com/screenshot/image/"
 permalink: /websites/:title/
 
 sass:
