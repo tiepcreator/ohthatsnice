@@ -1,8 +1,8 @@
 # Site settings
-title: Oh That's Nice
+title: Các khách hàng và tên miền của | Tiep Customer
 description: A showcase of beautiful websites
 baseurl: ""
-url: "https://ohthatsnice.net"
+url: "https://tiepcustomer.netlify.app"
 cdn: "https://shots.ohthatsnice.net/"
 permalink: /websites/:title/
 
