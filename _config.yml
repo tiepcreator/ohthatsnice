@@ -1,6 +1,6 @@
 # Site settings
-title: Các khách hàng và tên miền của | Tiep Customer
-description: A showcase of beautiful websites
+title: Showcase khách hàng tên miền của tiep.vn
+description: A showcase of customer domain that registered with tiep.vn
 baseurl: ""
 url: "https://tiepcustomer.netlify.app"
 cdn: "https://thao-am-private-charity-funds-vietnam.github.io/screenshots/"
