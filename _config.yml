@@ -2,7 +2,7 @@
 title: Showcase khách hàng tên miền của tiep.vn
 description: A showcase of customer domain that registered with tiep.vn
 baseurl: ""
-url: "https://tiepcustomer.netlify.app"
+url: "https://showcase.tiep.vn"
 cdn: "https://thao-am-private-charity-funds-vietnam.github.io/screenshots/"
 permalink: /websites/:title/
 
