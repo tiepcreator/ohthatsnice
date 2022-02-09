@@ -29,7 +29,7 @@ layout: default
         </div>
 
         <div class="website-categories">
-            <div class="label">Categories</div>
+            <div class="label">Tên miền theo thể loại</div>
             {% for category in page.categories %}
                 <a class="tag" href="/category/{{ category | slugify }}">{{ category }}</a>
             {% endfor %}
@@ -45,7 +45,7 @@ layout: default
             <span class="prev">
                 &nbsp;
                 {% if page.previous %}
-                    <span class="label">Previous</span>
+                    <span class="label">Trước đó</span>
                     <a rel="next" href="{{ site.baseurl }}{{ page.previous.url }}">
                         {{page.previous.title}}
                     </a>
@@ -56,7 +56,7 @@ layout: default
             <span class="next">
                 &nbsp;
                 {% if page.next %}
-                    <span class="label">Next</span>
+                    <span class="label">Kế tiếp</span>
                     <a rel="next" href="{{ site.baseurl }}{{ page.next.url }}">
                         {{page.next.title}}
                     </a>
@@ -69,7 +69,7 @@ layout: default
 <section class="container">
     <div class="row">
         <div class="column one-whole">
-            <h4 class="title center">Other Websites</h4>
+            <h4 class="title center">Các tên miền khác</h4>
         </div>
 
         {% for post in site.related_posts limit:6 %}
